@@ -2,7 +2,7 @@
 <h3 align="center"> I am passionate about technologies</h3>
 
 - 🌱 I’m currently learning **Javascript, Node.js,React,Python,Mysql**
-
+- Tools **Power Bi**
 - 📫 How to reach me **Kuberseth5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
